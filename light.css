@@ -10,7 +10,7 @@ p, span, small{
 	color: #888;
 }
 
-#box{
+#box {
 	width: 400px;
 	margin: 0 auto;
 	margin-top: 100px;
@@ -21,7 +21,7 @@ p, span, small{
 	background-color: #F8F8F8!important;
 }
 
-#profile_pic{
+#profile_pic {
 	display: block;
 	border-radius: 50%;
 	margin: 10px auto;
@@ -30,7 +30,7 @@ p, span, small{
 
 }
 
-hr{
+hr {
 	margin: 20px;
 	background-color: #eaeaea;
 }
